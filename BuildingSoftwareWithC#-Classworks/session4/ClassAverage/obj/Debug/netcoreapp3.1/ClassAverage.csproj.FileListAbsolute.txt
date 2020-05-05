@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ClassAverage\bin\Debug\netcoreapp3.1\ClassAverage.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ClassAverage\bin\Debug\netcoreapp3.1\ClassAverage.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ClassAverage\bin\Debug\netcoreapp3.1\ClassAverage.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ClassAverage\bin\Debug\netcoreapp3.1\ClassAverage.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ClassAverage\bin\Debug\netcoreapp3.1\ClassAverage.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ClassAverage\bin\Debug\netcoreapp3.1\ClassAverage.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ClassAverage\obj\Debug\netcoreapp3.1\ClassAverage.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ClassAverage\obj\Debug\netcoreapp3.1\ClassAverage.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ClassAverage\obj\Debug\netcoreapp3.1\ClassAverage.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ClassAverage\obj\Debug\netcoreapp3.1\ClassAverage.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ClassAverage\obj\Debug\netcoreapp3.1\ClassAverage.pdb

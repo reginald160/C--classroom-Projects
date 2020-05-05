@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\StudentTest\bin\Debug\netcoreapp3.1\StudentTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\StudentTest\bin\Debug\netcoreapp3.1\StudentTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\StudentTest\bin\Debug\netcoreapp3.1\StudentTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\StudentTest\bin\Debug\netcoreapp3.1\StudentTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\StudentTest\bin\Debug\netcoreapp3.1\StudentTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\StudentTest\bin\Debug\netcoreapp3.1\StudentTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\StudentTest\obj\Debug\netcoreapp3.1\StudentTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\StudentTest\obj\Debug\netcoreapp3.1\StudentTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\StudentTest\obj\Debug\netcoreapp3.1\StudentTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\StudentTest\obj\Debug\netcoreapp3.1\StudentTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\StudentTest\obj\Debug\netcoreapp3.1\StudentTest.pdb

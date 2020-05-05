@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.pdb

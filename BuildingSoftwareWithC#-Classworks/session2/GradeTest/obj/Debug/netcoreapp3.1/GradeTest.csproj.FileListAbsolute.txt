@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\GradeTest\bin\Debug\netcoreapp3.1\GradeTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\GradeTest\bin\Debug\netcoreapp3.1\GradeTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\GradeTest\bin\Debug\netcoreapp3.1\GradeTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\GradeTest\bin\Debug\netcoreapp3.1\GradeTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\GradeTest\bin\Debug\netcoreapp3.1\GradeTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\GradeTest\bin\Debug\netcoreapp3.1\GradeTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.pdb

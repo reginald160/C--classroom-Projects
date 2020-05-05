@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\sum2num\bin\Debug\netcoreapp3.1\sum2num.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\sum2num\bin\Debug\netcoreapp3.1\sum2num.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\sum2num\bin\Debug\netcoreapp3.1\sum2num.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\sum2num\bin\Debug\netcoreapp3.1\sum2num.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\sum2num\bin\Debug\netcoreapp3.1\sum2num.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\sum2num\bin\Debug\netcoreapp3.1\sum2num.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\sum2num\obj\Debug\netcoreapp3.1\sum2num.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\sum2num\obj\Debug\netcoreapp3.1\sum2num.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\sum2num\obj\Debug\netcoreapp3.1\sum2num.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\sum2num\obj\Debug\netcoreapp3.1\sum2num.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\sum2num\obj\Debug\netcoreapp3.1\sum2num.pdb

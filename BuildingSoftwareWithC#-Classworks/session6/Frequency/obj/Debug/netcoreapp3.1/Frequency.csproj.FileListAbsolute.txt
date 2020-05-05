@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Frequency\bin\Debug\netcoreapp3.1\Frequency.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Frequency\bin\Debug\netcoreapp3.1\Frequency.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Frequency\bin\Debug\netcoreapp3.1\Frequency.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Frequency\bin\Debug\netcoreapp3.1\Frequency.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Frequency\bin\Debug\netcoreapp3.1\Frequency.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Frequency\bin\Debug\netcoreapp3.1\Frequency.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Frequency\obj\Debug\netcoreapp3.1\Frequency.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Frequency\obj\Debug\netcoreapp3.1\Frequency.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Frequency\obj\Debug\netcoreapp3.1\Frequency.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Frequency\obj\Debug\netcoreapp3.1\Frequency.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Frequency\obj\Debug\netcoreapp3.1\Frequency.pdb

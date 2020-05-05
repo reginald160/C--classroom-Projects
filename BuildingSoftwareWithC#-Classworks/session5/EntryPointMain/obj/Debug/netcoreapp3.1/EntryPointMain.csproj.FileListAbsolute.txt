@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EntryPointMain\bin\Debug\netcoreapp3.1\EntryPointMain.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EntryPointMain\bin\Debug\netcoreapp3.1\EntryPointMain.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EntryPointMain\bin\Debug\netcoreapp3.1\EntryPointMain.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EntryPointMain\bin\Debug\netcoreapp3.1\EntryPointMain.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EntryPointMain\bin\Debug\netcoreapp3.1\EntryPointMain.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EntryPointMain\bin\Debug\netcoreapp3.1\EntryPointMain.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EntryPointMain\obj\Debug\netcoreapp3.1\EntryPointMain.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EntryPointMain\obj\Debug\netcoreapp3.1\EntryPointMain.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EntryPointMain\obj\Debug\netcoreapp3.1\EntryPointMain.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EntryPointMain\obj\Debug\netcoreapp3.1\EntryPointMain.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EntryPointMain\obj\Debug\netcoreapp3.1\EntryPointMain.pdb

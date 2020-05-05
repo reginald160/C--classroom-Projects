@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CrapsGameApp\obj\Debug\netcoreapp3.1\CrapsGameApp.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CrapsGameApp\obj\Debug\netcoreapp3.1\CrapsGameApp.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CrapsGameApp\obj\Debug\netcoreapp3.1\CrapsGameApp.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CrapsGameApp\bin\Debug\netcoreapp3.1\CrapsGameApp.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CrapsGameApp\bin\Debug\netcoreapp3.1\CrapsGameApp.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CrapsGameApp\bin\Debug\netcoreapp3.1\CrapsGameApp.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CrapsGameApp\bin\Debug\netcoreapp3.1\CrapsGameApp.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CrapsGameApp\bin\Debug\netcoreapp3.1\CrapsGameApp.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CrapsGameApp\bin\Debug\netcoreapp3.1\CrapsGameApp.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CrapsGameApp\obj\Debug\netcoreapp3.1\CrapsGameApp.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CrapsGameApp\obj\Debug\netcoreapp3.1\CrapsGameApp.pdb

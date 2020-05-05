@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomFreqTest\obj\Debug\netcoreapp3.1\RandomFreqTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomFreqTest\obj\Debug\netcoreapp3.1\RandomFreqTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomFreqTest\obj\Debug\netcoreapp3.1\RandomFreqTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomFreqTest\bin\Debug\netcoreapp3.1\RandomFreqTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomFreqTest\bin\Debug\netcoreapp3.1\RandomFreqTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomFreqTest\bin\Debug\netcoreapp3.1\RandomFreqTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomFreqTest\bin\Debug\netcoreapp3.1\RandomFreqTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomFreqTest\bin\Debug\netcoreapp3.1\RandomFreqTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomFreqTest\bin\Debug\netcoreapp3.1\RandomFreqTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomFreqTest\obj\Debug\netcoreapp3.1\RandomFreqTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomFreqTest\obj\Debug\netcoreapp3.1\RandomFreqTest.pdb

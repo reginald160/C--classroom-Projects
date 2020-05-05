@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\JaggedArrayTest\obj\Debug\netcoreapp3.1\JaggedArrayTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\JaggedArrayTest\obj\Debug\netcoreapp3.1\JaggedArrayTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\JaggedArrayTest\obj\Debug\netcoreapp3.1\JaggedArrayTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\JaggedArrayTest\bin\Debug\netcoreapp3.1\JaggedArrayTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\JaggedArrayTest\bin\Debug\netcoreapp3.1\JaggedArrayTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\JaggedArrayTest\bin\Debug\netcoreapp3.1\JaggedArrayTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\JaggedArrayTest\bin\Debug\netcoreapp3.1\JaggedArrayTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\JaggedArrayTest\bin\Debug\netcoreapp3.1\JaggedArrayTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\JaggedArrayTest\bin\Debug\netcoreapp3.1\JaggedArrayTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\JaggedArrayTest\obj\Debug\netcoreapp3.1\JaggedArrayTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\JaggedArrayTest\obj\Debug\netcoreapp3.1\JaggedArrayTest.pdb

@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\RestaurantProject\obj\Debug\netcoreapp3.1\RestaurantProject.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\RestaurantProject\obj\Debug\netcoreapp3.1\RestaurantProject.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\RestaurantProject\obj\Debug\netcoreapp3.1\RestaurantProject.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\RestaurantProject\bin\Debug\netcoreapp3.1\RestaurantProject.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\RestaurantProject\bin\Debug\netcoreapp3.1\RestaurantProject.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\RestaurantProject\bin\Debug\netcoreapp3.1\RestaurantProject.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\RestaurantProject\bin\Debug\netcoreapp3.1\RestaurantProject.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\RestaurantProject\bin\Debug\netcoreapp3.1\RestaurantProject.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\RestaurantProject\bin\Debug\netcoreapp3.1\RestaurantProject.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\RestaurantProject\obj\Debug\netcoreapp3.1\RestaurantProject.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\RestaurantProject\obj\Debug\netcoreapp3.1\RestaurantProject.pdb

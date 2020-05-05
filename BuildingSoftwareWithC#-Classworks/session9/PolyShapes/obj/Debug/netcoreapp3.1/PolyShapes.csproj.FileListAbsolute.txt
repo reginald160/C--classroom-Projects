@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\PolyShapes\bin\Debug\netcoreapp3.1\PolyShapes.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\PolyShapes\bin\Debug\netcoreapp3.1\PolyShapes.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\PolyShapes\bin\Debug\netcoreapp3.1\PolyShapes.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\PolyShapes\bin\Debug\netcoreapp3.1\PolyShapes.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\PolyShapes\bin\Debug\netcoreapp3.1\PolyShapes.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\PolyShapes\bin\Debug\netcoreapp3.1\PolyShapes.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\PolyShapes\obj\Debug\netcoreapp3.1\PolyShapes.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\PolyShapes\obj\Debug\netcoreapp3.1\PolyShapes.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\PolyShapes\obj\Debug\netcoreapp3.1\PolyShapes.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\PolyShapes\obj\Debug\netcoreapp3.1\PolyShapes.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\PolyShapes\obj\Debug\netcoreapp3.1\PolyShapes.pdb

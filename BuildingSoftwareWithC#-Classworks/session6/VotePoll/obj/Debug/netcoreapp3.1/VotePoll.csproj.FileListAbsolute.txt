@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VotePoll\bin\Debug\netcoreapp3.1\VotePoll.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VotePoll\bin\Debug\netcoreapp3.1\VotePoll.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VotePoll\bin\Debug\netcoreapp3.1\VotePoll.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VotePoll\bin\Debug\netcoreapp3.1\VotePoll.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VotePoll\bin\Debug\netcoreapp3.1\VotePoll.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VotePoll\bin\Debug\netcoreapp3.1\VotePoll.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VotePoll\obj\Debug\netcoreapp3.1\VotePoll.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VotePoll\obj\Debug\netcoreapp3.1\VotePoll.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VotePoll\obj\Debug\netcoreapp3.1\VotePoll.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VotePoll\obj\Debug\netcoreapp3.1\VotePoll.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VotePoll\obj\Debug\netcoreapp3.1\VotePoll.pdb

@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomTest\bin\Debug\netcoreapp3.1\RandomTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomTest\bin\Debug\netcoreapp3.1\RandomTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomTest\bin\Debug\netcoreapp3.1\RandomTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomTest\bin\Debug\netcoreapp3.1\RandomTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomTest\bin\Debug\netcoreapp3.1\RandomTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomTest\bin\Debug\netcoreapp3.1\RandomTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomTest\obj\Debug\netcoreapp3.1\RandomTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomTest\obj\Debug\netcoreapp3.1\RandomTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomTest\obj\Debug\netcoreapp3.1\RandomTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomTest\obj\Debug\netcoreapp3.1\RandomTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\RandomTest\obj\Debug\netcoreapp3.1\RandomTest.pdb

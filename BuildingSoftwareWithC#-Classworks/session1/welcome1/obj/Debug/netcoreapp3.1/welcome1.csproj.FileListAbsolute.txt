@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\welcome1\bin\Debug\netcoreapp3.1\welcome1.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\welcome1\bin\Debug\netcoreapp3.1\welcome1.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\welcome1\bin\Debug\netcoreapp3.1\welcome1.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\welcome1\bin\Debug\netcoreapp3.1\welcome1.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\welcome1\bin\Debug\netcoreapp3.1\welcome1.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\welcome1\bin\Debug\netcoreapp3.1\welcome1.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\welcome1\obj\Debug\netcoreapp3.1\welcome1.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\welcome1\obj\Debug\netcoreapp3.1\welcome1.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\welcome1\obj\Debug\netcoreapp3.1\welcome1.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\welcome1\obj\Debug\netcoreapp3.1\welcome1.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session1\welcome1\obj\Debug\netcoreapp3.1\welcome1.pdb

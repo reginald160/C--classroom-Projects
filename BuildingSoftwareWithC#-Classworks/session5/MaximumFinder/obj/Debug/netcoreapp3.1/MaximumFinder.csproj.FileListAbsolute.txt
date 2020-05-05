@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\MaximumFinder\bin\Debug\netcoreapp3.1\MaximumFinder.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\MaximumFinder\bin\Debug\netcoreapp3.1\MaximumFinder.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\MaximumFinder\bin\Debug\netcoreapp3.1\MaximumFinder.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\MaximumFinder\bin\Debug\netcoreapp3.1\MaximumFinder.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\MaximumFinder\bin\Debug\netcoreapp3.1\MaximumFinder.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\MaximumFinder\bin\Debug\netcoreapp3.1\MaximumFinder.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\MaximumFinder\obj\Debug\netcoreapp3.1\MaximumFinder.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\MaximumFinder\obj\Debug\netcoreapp3.1\MaximumFinder.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\MaximumFinder\obj\Debug\netcoreapp3.1\MaximumFinder.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\MaximumFinder\obj\Debug\netcoreapp3.1\MaximumFinder.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\MaximumFinder\obj\Debug\netcoreapp3.1\MaximumFinder.pdb

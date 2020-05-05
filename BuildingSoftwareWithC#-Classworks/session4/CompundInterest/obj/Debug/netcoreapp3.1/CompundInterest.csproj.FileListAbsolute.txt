@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\CompundInterest\obj\Debug\netcoreapp3.1\CompundInterest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\CompundInterest\obj\Debug\netcoreapp3.1\CompundInterest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\CompundInterest\obj\Debug\netcoreapp3.1\CompundInterest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\CompundInterest\bin\Debug\netcoreapp3.1\CompundInterest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\CompundInterest\bin\Debug\netcoreapp3.1\CompundInterest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\CompundInterest\bin\Debug\netcoreapp3.1\CompundInterest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\CompundInterest\bin\Debug\netcoreapp3.1\CompundInterest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\CompundInterest\bin\Debug\netcoreapp3.1\CompundInterest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\CompundInterest\bin\Debug\netcoreapp3.1\CompundInterest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\CompundInterest\obj\Debug\netcoreapp3.1\CompundInterest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\CompundInterest\obj\Debug\netcoreapp3.1\CompundInterest.pdb

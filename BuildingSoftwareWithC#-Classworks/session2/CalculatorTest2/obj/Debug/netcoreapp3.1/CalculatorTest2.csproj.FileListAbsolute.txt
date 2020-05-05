@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\CalculatorTest2\bin\Debug\netcoreapp3.1\CalculatorTest2.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\CalculatorTest2\bin\Debug\netcoreapp3.1\CalculatorTest2.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\CalculatorTest2\bin\Debug\netcoreapp3.1\CalculatorTest2.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\CalculatorTest2\bin\Debug\netcoreapp3.1\CalculatorTest2.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\CalculatorTest2\bin\Debug\netcoreapp3.1\CalculatorTest2.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\CalculatorTest2\bin\Debug\netcoreapp3.1\CalculatorTest2.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\CalculatorTest2\obj\Debug\netcoreapp3.1\CalculatorTest2.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\CalculatorTest2\obj\Debug\netcoreapp3.1\CalculatorTest2.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\CalculatorTest2\obj\Debug\netcoreapp3.1\CalculatorTest2.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\CalculatorTest2\obj\Debug\netcoreapp3.1\CalculatorTest2.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session2\CalculatorTest2\obj\Debug\netcoreapp3.1\CalculatorTest2.pdb

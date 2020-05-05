@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\CheckEvenNum\bin\Debug\netcoreapp3.1\CheckEvenNum.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\CheckEvenNum\bin\Debug\netcoreapp3.1\CheckEvenNum.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\CheckEvenNum\bin\Debug\netcoreapp3.1\CheckEvenNum.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\CheckEvenNum\bin\Debug\netcoreapp3.1\CheckEvenNum.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\CheckEvenNum\bin\Debug\netcoreapp3.1\CheckEvenNum.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\CheckEvenNum\bin\Debug\netcoreapp3.1\CheckEvenNum.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\CheckEvenNum\obj\Debug\netcoreapp3.1\CheckEvenNum.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\CheckEvenNum\obj\Debug\netcoreapp3.1\CheckEvenNum.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\CheckEvenNum\obj\Debug\netcoreapp3.1\CheckEvenNum.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\CheckEvenNum\obj\Debug\netcoreapp3.1\CheckEvenNum.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\CheckEvenNum\obj\Debug\netcoreapp3.1\CheckEvenNum.pdb

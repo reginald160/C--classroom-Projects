@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Parameters\bin\Debug\netcoreapp3.1\Parameters.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Parameters\bin\Debug\netcoreapp3.1\Parameters.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Parameters\bin\Debug\netcoreapp3.1\Parameters.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Parameters\bin\Debug\netcoreapp3.1\Parameters.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Parameters\obj\Debug\netcoreapp3.1\Parameters.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Parameters\obj\Debug\netcoreapp3.1\Parameters.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Parameters\obj\Debug\netcoreapp3.1\Parameters.pdb

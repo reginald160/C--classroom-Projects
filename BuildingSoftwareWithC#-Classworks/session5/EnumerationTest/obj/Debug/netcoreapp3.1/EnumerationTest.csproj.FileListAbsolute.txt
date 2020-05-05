@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EnumerationTest\obj\Debug\netcoreapp3.1\EnumerationTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EnumerationTest\obj\Debug\netcoreapp3.1\EnumerationTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EnumerationTest\obj\Debug\netcoreapp3.1\EnumerationTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EnumerationTest\bin\Debug\netcoreapp3.1\EnumerationTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EnumerationTest\bin\Debug\netcoreapp3.1\EnumerationTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EnumerationTest\bin\Debug\netcoreapp3.1\EnumerationTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EnumerationTest\bin\Debug\netcoreapp3.1\EnumerationTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EnumerationTest\bin\Debug\netcoreapp3.1\EnumerationTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EnumerationTest\bin\Debug\netcoreapp3.1\EnumerationTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EnumerationTest\obj\Debug\netcoreapp3.1\EnumerationTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\EnumerationTest\obj\Debug\netcoreapp3.1\EnumerationTest.pdb

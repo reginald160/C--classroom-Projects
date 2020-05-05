@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session5\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.pdb

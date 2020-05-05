@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\QueueTest\bin\Debug\netcoreapp3.1\QueueTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\QueueTest\bin\Debug\netcoreapp3.1\QueueTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\QueueTest\bin\Debug\netcoreapp3.1\QueueTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\QueueTest\bin\Debug\netcoreapp3.1\QueueTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\QueueTest\bin\Debug\netcoreapp3.1\QueueTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\QueueTest\bin\Debug\netcoreapp3.1\QueueTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\QueueTest\obj\Debug\netcoreapp3.1\QueueTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\QueueTest\obj\Debug\netcoreapp3.1\QueueTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\QueueTest\obj\Debug\netcoreapp3.1\QueueTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\QueueTest\obj\Debug\netcoreapp3.1\QueueTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\QueueTest\obj\Debug\netcoreapp3.1\QueueTest.pdb

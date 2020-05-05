@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\GenericMethodTest\obj\Debug\netcoreapp3.1\GenericMethodTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\GenericMethodTest\obj\Debug\netcoreapp3.1\GenericMethodTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\GenericMethodTest\obj\Debug\netcoreapp3.1\GenericMethodTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\GenericMethodTest\bin\Debug\netcoreapp3.1\GenericMethodTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\GenericMethodTest\bin\Debug\netcoreapp3.1\GenericMethodTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\GenericMethodTest\bin\Debug\netcoreapp3.1\GenericMethodTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\GenericMethodTest\bin\Debug\netcoreapp3.1\GenericMethodTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\GenericMethodTest\bin\Debug\netcoreapp3.1\GenericMethodTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\GenericMethodTest\bin\Debug\netcoreapp3.1\GenericMethodTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\GenericMethodTest\obj\Debug\netcoreapp3.1\GenericMethodTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session11\GenericMethodTest\obj\Debug\netcoreapp3.1\GenericMethodTest.pdb

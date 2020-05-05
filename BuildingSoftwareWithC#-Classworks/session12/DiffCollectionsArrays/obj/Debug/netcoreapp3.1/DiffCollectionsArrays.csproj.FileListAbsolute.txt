@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\DiffCollectionsArrays\bin\Debug\netcoreapp3.1\DiffCollectionsArrays.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\DiffCollectionsArrays\bin\Debug\netcoreapp3.1\DiffCollectionsArrays.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\DiffCollectionsArrays\bin\Debug\netcoreapp3.1\DiffCollectionsArrays.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\DiffCollectionsArrays\bin\Debug\netcoreapp3.1\DiffCollectionsArrays.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\DiffCollectionsArrays\bin\Debug\netcoreapp3.1\DiffCollectionsArrays.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\DiffCollectionsArrays\bin\Debug\netcoreapp3.1\DiffCollectionsArrays.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\DiffCollectionsArrays\obj\Debug\netcoreapp3.1\DiffCollectionsArrays.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\DiffCollectionsArrays\obj\Debug\netcoreapp3.1\DiffCollectionsArrays.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\DiffCollectionsArrays\obj\Debug\netcoreapp3.1\DiffCollectionsArrays.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\DiffCollectionsArrays\obj\Debug\netcoreapp3.1\DiffCollectionsArrays.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\DiffCollectionsArrays\obj\Debug\netcoreapp3.1\DiffCollectionsArrays.pdb

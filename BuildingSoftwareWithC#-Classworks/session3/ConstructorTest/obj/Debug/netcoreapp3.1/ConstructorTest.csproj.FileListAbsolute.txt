@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session3\ConstructorTest\bin\Debug\netcoreapp3.1\ConstructorTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session3\ConstructorTest\bin\Debug\netcoreapp3.1\ConstructorTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session3\ConstructorTest\bin\Debug\netcoreapp3.1\ConstructorTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session3\ConstructorTest\bin\Debug\netcoreapp3.1\ConstructorTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session3\ConstructorTest\bin\Debug\netcoreapp3.1\ConstructorTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session3\ConstructorTest\bin\Debug\netcoreapp3.1\ConstructorTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session3\ConstructorTest\obj\Debug\netcoreapp3.1\ConstructorTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session3\ConstructorTest\obj\Debug\netcoreapp3.1\ConstructorTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session3\ConstructorTest\obj\Debug\netcoreapp3.1\ConstructorTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session3\ConstructorTest\obj\Debug\netcoreapp3.1\ConstructorTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session3\ConstructorTest\obj\Debug\netcoreapp3.1\ConstructorTest.pdb

@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\StandardDeviation\obj\Debug\netcoreapp3.1\StandardDeviation.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\StandardDeviation\obj\Debug\netcoreapp3.1\StandardDeviation.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\StandardDeviation\obj\Debug\netcoreapp3.1\StandardDeviation.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\StandardDeviation\bin\Debug\netcoreapp3.1\StandardDeviation.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\StandardDeviation\bin\Debug\netcoreapp3.1\StandardDeviation.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\StandardDeviation\bin\Debug\netcoreapp3.1\StandardDeviation.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\StandardDeviation\bin\Debug\netcoreapp3.1\StandardDeviation.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\StandardDeviation\bin\Debug\netcoreapp3.1\StandardDeviation.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\StandardDeviation\bin\Debug\netcoreapp3.1\StandardDeviation.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\StandardDeviation\obj\Debug\netcoreapp3.1\StandardDeviation.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\StandardDeviation\obj\Debug\netcoreapp3.1\StandardDeviation.pdb

@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CommandLineArgument\bin\Debug\netcoreapp3.1\CommandLineArgument.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CommandLineArgument\bin\Debug\netcoreapp3.1\CommandLineArgument.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CommandLineArgument\bin\Debug\netcoreapp3.1\CommandLineArgument.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CommandLineArgument\bin\Debug\netcoreapp3.1\CommandLineArgument.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CommandLineArgument\bin\Debug\netcoreapp3.1\CommandLineArgument.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CommandLineArgument\bin\Debug\netcoreapp3.1\CommandLineArgument.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CommandLineArgument\obj\Debug\netcoreapp3.1\CommandLineArgument.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CommandLineArgument\obj\Debug\netcoreapp3.1\CommandLineArgument.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CommandLineArgument\obj\Debug\netcoreapp3.1\CommandLineArgument.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CommandLineArgument\obj\Debug\netcoreapp3.1\CommandLineArgument.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\CommandLineArgument\obj\Debug\netcoreapp3.1\CommandLineArgument.pdb

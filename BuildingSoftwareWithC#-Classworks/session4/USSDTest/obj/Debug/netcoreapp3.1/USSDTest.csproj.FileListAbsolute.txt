@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\USSDTest\bin\Debug\netcoreapp3.1\USSDTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\USSDTest\bin\Debug\netcoreapp3.1\USSDTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\USSDTest\bin\Debug\netcoreapp3.1\USSDTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\USSDTest\bin\Debug\netcoreapp3.1\USSDTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\USSDTest\bin\Debug\netcoreapp3.1\USSDTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\USSDTest\bin\Debug\netcoreapp3.1\USSDTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\USSDTest\obj\Debug\netcoreapp3.1\USSDTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\USSDTest\obj\Debug\netcoreapp3.1\USSDTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\USSDTest\obj\Debug\netcoreapp3.1\USSDTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\USSDTest\obj\Debug\netcoreapp3.1\USSDTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\USSDTest\obj\Debug\netcoreapp3.1\USSDTest.pdb

@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session9\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb

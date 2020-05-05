@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Scope\obj\Debug\netcoreapp3.1\Scope.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Scope\obj\Debug\netcoreapp3.1\Scope.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Scope\obj\Debug\netcoreapp3.1\Scope.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Scope\bin\Debug\netcoreapp3.1\Scope.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Scope\bin\Debug\netcoreapp3.1\Scope.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Scope\bin\Debug\netcoreapp3.1\Scope.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Scope\bin\Debug\netcoreapp3.1\Scope.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Scope\bin\Debug\netcoreapp3.1\Scope.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Scope\bin\Debug\netcoreapp3.1\Scope.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Scope\obj\Debug\netcoreapp3.1\Scope.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\Scope\obj\Debug\netcoreapp3.1\Scope.pdb

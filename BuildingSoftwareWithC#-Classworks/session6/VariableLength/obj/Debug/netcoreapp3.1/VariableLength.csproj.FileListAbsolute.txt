@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VariableLength\obj\Debug\netcoreapp3.1\VariableLength.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VariableLength\obj\Debug\netcoreapp3.1\VariableLength.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VariableLength\obj\Debug\netcoreapp3.1\VariableLength.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VariableLength\bin\Debug\netcoreapp3.1\VariableLength.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VariableLength\bin\Debug\netcoreapp3.1\VariableLength.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VariableLength\bin\Debug\netcoreapp3.1\VariableLength.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VariableLength\bin\Debug\netcoreapp3.1\VariableLength.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VariableLength\bin\Debug\netcoreapp3.1\VariableLength.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VariableLength\bin\Debug\netcoreapp3.1\VariableLength.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VariableLength\obj\Debug\netcoreapp3.1\VariableLength.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\VariableLength\obj\Debug\netcoreapp3.1\VariableLength.pdb

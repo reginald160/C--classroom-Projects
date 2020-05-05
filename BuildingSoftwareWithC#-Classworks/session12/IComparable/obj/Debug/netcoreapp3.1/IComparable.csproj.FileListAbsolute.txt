@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\IComparable\obj\Debug\netcoreapp3.1\IComparable.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\IComparable\obj\Debug\netcoreapp3.1\IComparable.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\IComparable\obj\Debug\netcoreapp3.1\IComparable.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\IComparable\bin\Debug\netcoreapp3.1\IComparable.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\IComparable\bin\Debug\netcoreapp3.1\IComparable.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\IComparable\bin\Debug\netcoreapp3.1\IComparable.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\IComparable\bin\Debug\netcoreapp3.1\IComparable.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\IComparable\bin\Debug\netcoreapp3.1\IComparable.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\IComparable\bin\Debug\netcoreapp3.1\IComparable.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\IComparable\obj\Debug\netcoreapp3.1\IComparable.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session12\IComparable\obj\Debug\netcoreapp3.1\IComparable.pdb

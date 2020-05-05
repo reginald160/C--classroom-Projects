@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\GradeBookTest\obj\Debug\netcoreapp3.1\GradeBookTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\GradeBookTest\obj\Debug\netcoreapp3.1\GradeBookTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\GradeBookTest\obj\Debug\netcoreapp3.1\GradeBookTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\GradeBookTest\bin\Debug\netcoreapp3.1\GradeBookTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\GradeBookTest\bin\Debug\netcoreapp3.1\GradeBookTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\GradeBookTest\bin\Debug\netcoreapp3.1\GradeBookTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\GradeBookTest\bin\Debug\netcoreapp3.1\GradeBookTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\GradeBookTest\bin\Debug\netcoreapp3.1\GradeBookTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\GradeBookTest\bin\Debug\netcoreapp3.1\GradeBookTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\GradeBookTest\obj\Debug\netcoreapp3.1\GradeBookTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session6\GradeBookTest\obj\Debug\netcoreapp3.1\GradeBookTest.pdb

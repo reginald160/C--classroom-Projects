@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session10\InterfaceTest\bin\Debug\netcoreapp3.1\InterfaceTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session10\InterfaceTest\bin\Debug\netcoreapp3.1\InterfaceTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session10\InterfaceTest\bin\Debug\netcoreapp3.1\InterfaceTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session10\InterfaceTest\bin\Debug\netcoreapp3.1\InterfaceTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session10\InterfaceTest\bin\Debug\netcoreapp3.1\InterfaceTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session10\InterfaceTest\bin\Debug\netcoreapp3.1\InterfaceTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session10\InterfaceTest\obj\Debug\netcoreapp3.1\InterfaceTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session10\InterfaceTest\obj\Debug\netcoreapp3.1\InterfaceTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session10\InterfaceTest\obj\Debug\netcoreapp3.1\InterfaceTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session10\InterfaceTest\obj\Debug\netcoreapp3.1\InterfaceTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session10\InterfaceTest\obj\Debug\netcoreapp3.1\InterfaceTest.pdb

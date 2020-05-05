@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ElectorateTest\obj\Debug\netcoreapp3.1\ElectorateTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ElectorateTest\obj\Debug\netcoreapp3.1\ElectorateTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ElectorateTest\obj\Debug\netcoreapp3.1\ElectorateTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ElectorateTest\bin\Debug\netcoreapp3.1\ElectorateTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ElectorateTest\bin\Debug\netcoreapp3.1\ElectorateTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ElectorateTest\bin\Debug\netcoreapp3.1\ElectorateTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ElectorateTest\bin\Debug\netcoreapp3.1\ElectorateTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ElectorateTest\bin\Debug\netcoreapp3.1\ElectorateTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ElectorateTest\bin\Debug\netcoreapp3.1\ElectorateTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ElectorateTest\obj\Debug\netcoreapp3.1\ElectorateTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session4\ElectorateTest\obj\Debug\netcoreapp3.1\ElectorateTest.pdb

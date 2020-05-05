@@ -1,0 +1,11 @@
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\InheritanceTest\obj\Debug\netcoreapp3.1\InheritanceTest.csprojAssemblyReference.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\InheritanceTest\obj\Debug\netcoreapp3.1\InheritanceTest.AssemblyInfoInputs.cache
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\InheritanceTest\obj\Debug\netcoreapp3.1\InheritanceTest.AssemblyInfo.cs
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\InheritanceTest\bin\Debug\netcoreapp3.1\InheritanceTest.exe
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\InheritanceTest\bin\Debug\netcoreapp3.1\InheritanceTest.deps.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\InheritanceTest\bin\Debug\netcoreapp3.1\InheritanceTest.runtimeconfig.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\InheritanceTest\bin\Debug\netcoreapp3.1\InheritanceTest.runtimeconfig.dev.json
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\InheritanceTest\bin\Debug\netcoreapp3.1\InheritanceTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\InheritanceTest\bin\Debug\netcoreapp3.1\InheritanceTest.pdb
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\InheritanceTest\obj\Debug\netcoreapp3.1\InheritanceTest.dll
+E:\#CODEBITS Academy\#CSharp-GO-PRO\Classworks\session7\InheritanceTest\obj\Debug\netcoreapp3.1\InheritanceTest.pdb
